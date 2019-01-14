@@ -1,0 +1,67 @@
+h1{
+    color: darkslateblue;
+    font-family: Times, sans-serif;
+    text-align: center;
+}
+
+p{
+    color: black;
+    text-align: center;
+}
+
+#para1{
+    color: black;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+p.center{
+    text-align: center;
+}
+
+body{
+    color: red;
+}
+
+p.serif{
+    font-family: "Times New Roman", Times, serif;
+}
+
+p.sanserif{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.normal{
+    font-style: normal;
+}
+
+p.italic{
+    font-style: italic;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+a:link{
+    color: #000000;
+}
+
+a:visited{
+    color: #00FF00;
+}
+
+a:hover{
+    color: #FF00FF;
+}
+
+a:active{
+    color: #0000FF;
+}
